@@ -1,0 +1,23 @@
+
+[
+    {
+        "thumb":"thumb1.jpg",
+        "movieName":"Bright",
+        "year":"2017, David Ayer",
+        "time":"117 min",
+        "typeOfMove":"Action, Crime, Fantasy",
+        "poster":"./poster1.jpg"
+
+    },
+
+    {
+        "thumb":"thumb2.jpg",
+        "movieName":"Tomb Raider",
+        "year":"2018, Roar Uthaug",
+        "time":"125 min",
+        "typeOfMove":"Action, Fantasy",
+        "poster":"./poster2"
+
+    }
+        
+]
